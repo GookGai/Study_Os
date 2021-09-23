@@ -1,0 +1,16 @@
+C:\GookGaiz\os\ex1\bin\Debug\net5.0\ex1.exe
+C:\GookGaiz\os\ex1\bin\Debug\net5.0\ex1.deps.json
+C:\GookGaiz\os\ex1\bin\Debug\net5.0\ex1.runtimeconfig.json
+C:\GookGaiz\os\ex1\bin\Debug\net5.0\ex1.runtimeconfig.dev.json
+C:\GookGaiz\os\ex1\bin\Debug\net5.0\ex1.dll
+C:\GookGaiz\os\ex1\bin\Debug\net5.0\ref\ex1.dll
+C:\GookGaiz\os\ex1\bin\Debug\net5.0\ex1.pdb
+C:\GookGaiz\os\ex1\obj\Debug\net5.0\ex1.csproj.AssemblyReference.cache
+C:\GookGaiz\os\ex1\obj\Debug\net5.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GookGaiz\os\ex1\obj\Debug\net5.0\ex1.AssemblyInfoInputs.cache
+C:\GookGaiz\os\ex1\obj\Debug\net5.0\ex1.AssemblyInfo.cs
+C:\GookGaiz\os\ex1\obj\Debug\net5.0\ex1.csproj.CoreCompileInputs.cache
+C:\GookGaiz\os\ex1\obj\Debug\net5.0\ex1.dll
+C:\GookGaiz\os\ex1\obj\Debug\net5.0\ref\ex1.dll
+C:\GookGaiz\os\ex1\obj\Debug\net5.0\ex1.pdb
+C:\GookGaiz\os\ex1\obj\Debug\net5.0\ex1.genruntimeconfig.cache
