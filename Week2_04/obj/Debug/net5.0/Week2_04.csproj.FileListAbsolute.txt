@@ -1,0 +1,16 @@
+C:\GookGaiz\os2\Week2_04\obj\Debug\net5.0\Week2_04.csproj.AssemblyReference.cache
+C:\GookGaiz\os2\Week2_04\obj\Debug\net5.0\Week2_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\GookGaiz\os2\Week2_04\obj\Debug\net5.0\Week2_04.AssemblyInfoInputs.cache
+C:\GookGaiz\os2\Week2_04\obj\Debug\net5.0\Week2_04.AssemblyInfo.cs
+C:\GookGaiz\os2\Week2_04\obj\Debug\net5.0\Week2_04.csproj.CoreCompileInputs.cache
+C:\GookGaiz\os2\Week2_04\bin\Debug\net5.0\Week2_04.exe
+C:\GookGaiz\os2\Week2_04\bin\Debug\net5.0\Week2_04.deps.json
+C:\GookGaiz\os2\Week2_04\bin\Debug\net5.0\Week2_04.runtimeconfig.json
+C:\GookGaiz\os2\Week2_04\bin\Debug\net5.0\Week2_04.runtimeconfig.dev.json
+C:\GookGaiz\os2\Week2_04\bin\Debug\net5.0\Week2_04.dll
+C:\GookGaiz\os2\Week2_04\bin\Debug\net5.0\ref\Week2_04.dll
+C:\GookGaiz\os2\Week2_04\bin\Debug\net5.0\Week2_04.pdb
+C:\GookGaiz\os2\Week2_04\obj\Debug\net5.0\Week2_04.dll
+C:\GookGaiz\os2\Week2_04\obj\Debug\net5.0\ref\Week2_04.dll
+C:\GookGaiz\os2\Week2_04\obj\Debug\net5.0\Week2_04.pdb
+C:\GookGaiz\os2\Week2_04\obj\Debug\net5.0\Week2_04.genruntimeconfig.cache
